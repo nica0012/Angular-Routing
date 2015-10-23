@@ -1,0 +1,84 @@
+{
+    "items": [
+        {
+            "id": 1,
+            "img": "img/eminem.jpg",
+            "name": "Eminem",
+            "birthday": "October 17, 1972",
+            "desc": "Marshall Bruce Mathers III is an American rapper, record producer, actor, and songwriter. Eminem is from Detroit, Michigan. In addition to his solo career, he is a member of D12 and half of the hip-hop duo Bad Meets Evil.",
+            "networth": "$160 million"
+        },
+        {
+            "id": 2,
+            "img": "img/kanye_west.jpg",
+            "name": "Kanye West",
+            "birthday": "June 8, 1977",
+            "desc": "Kanye Omari West is an American rapper, record producer, and fashion designer. West first became known as a producer for Roc-A-Fella RecordsHis style of production originally used high-pitched vocal samples from soul songs incorporated with his own drums and instruments.",
+            "networth": "$130 million"
+        },
+        {
+            "id": 3,
+            "img": "img/drake.jpg",
+            "name": "Drake",
+            "birthday": "October 24, 1986",
+            "desc": "Aubrey Drake Graham is a Canadian rapper, singer, songwriter and actor. He was born in Toronto, Ontario. He first garnered recognition for his role as Jimmy Brooks on the television series Degrassi: The Next Generation.",
+            "networth": "$76 million"
+        },
+        {
+            "id": 4,
+            "img": "img/megan_fox.jpg",
+            "name": "Megan Fox",
+            "birthday": "May 16, 1986",
+            "desc": "Megan Denise Fox is an American actress and model. She began her acting career in 2001, with several minor television and film roles, and played a regular role on the Hope & Faith television sitcom.",
+            "networth": "$5 million"
+        },
+        {
+            "id": 5,
+            "img": "img/marilyn_monroe.jpg",
+            "name": "Marilyn Monroe",
+            "birthday": "June 1, 1926",
+            "desc": "Sean John Combs, also known by his stage names Puff Daddy, Puffy, Diddy, and P. Diddy, is an American rapper, record producer, actor, and entrepreneur. Combs was born in Harlem and grew up in Mount Vernon, New York.",
+            "networth": "$27 million"
+        },
+        {
+            "id": 6,
+            "img": "img/sean_combs.jpg",
+            "name": "Sean Combs",
+            "birthday": "November 4, 1969",
+            "desc": "Marshall Bruce Mathers III is an American rapper, record producer, actor, and songwriter. Eminem is from Detroit, Michigan. In addition to his solo career, he is a member of D12 and half of the hip-hop duo Bad Meets Evil.",
+            "networth": "$700 million"
+        },
+        {
+            "id": 7,
+            "img": "img/phil_mcgraw.jpg",
+            "name": "Phillip McGraw",
+            "birthday": "September 1, 1950",
+            "desc": "Phillip Calvin McGraw, known as Dr. Phil, is an American television personality, author, psychologist, and the host of the television show Dr. Phil, which debuted in 2002.",
+            "networth": "$335 million"
+        },
+        {
+            "id": 8,
+            "img": "img/arnold_schwarzenegger.jpg",
+            "name": "A. Schwarzenegger",
+            "birthday": "January 6, 1955",
+            "desc": "Rowan Sebastian Atkinson, CBE is an English actor, comedian, and screenwriter best known for his work on the sitcoms Blackadder and Mr. Bean.",
+            "networth": "$130 million"
+        },
+        {
+            "id": 9,
+            "img": "img/chris_brown.jpg",
+
+            "name": "Chris Brown",
+            "birthday": "May 5, 1989",
+            "desc": "Christopher Maurice Brown is an American recording artist, dancer and actor. Born in Tappahannock, Virginia, he taught himself to sing and dance at a young age and was involved in his church choir and several local talent shows.",
+            "networth": "$30 million"
+        },
+        {
+            "id": 10,
+            "img": "img/angelina_jolie.jpg",
+            "name": "Angelina Jolie",
+            "birthday": "June 4, 1975",
+            "desc": "Angelina Jolie Pitt is an American actress, filmmaker, and humanitarian. She has received an Academy Award, two Screen Actors Guild Awards, and three Golden Globe Awards, and has been cited as Hollywood's highest-paid actress.",
+            "networth": "$425 million"
+        }]
+}
